@@ -1,7 +1,7 @@
 # You can call me **Léo**
 **Leonardo Cavalcante Araújo**
 
-*Last update: April 16th 2021*
+*Last update: March 27th 2022*
 
 ## WHO AM I ?
 
@@ -21,7 +21,7 @@ From February to April 2021, I have effectuated the Data Analytics Bootcamp at *
 In June 2021, I have started my job in **[ARTEFACT](https://www.artefact.com/)**, which is being very fulfilling for me.
 
 ### My Professional Experience:
-I have effectuated diverse experiences: as a management consultant at [BearingPoint](https://www.bearingpoint.com/en/), a business and finance analyst at [CHANEL](https://www.chanel.com/fr/mode/news.html), a business developer in a startup, [TheAssistant](https://www.theassistant.com/), at and an engineer at [SPIE Batignolles Fondations](https://www.spiebatignolles.fr/notre-groupe/nos-entites/spie-batignolles-fondations) and [TESIS](http://www.tesis.com.br/site/index.php).
+I have effectuated diverse experiences: as a management consultant at [BearingPoint](https://www.bearingpoint.com/en/), a business and finance analyst at [CHANEL](https://www.chanel.com/fr/mode/news.html), a business developer in the startup called [TheAssistant](https://www.theassistant.com/), and an engineer at [SPIE Batignolles Fondations](https://www.spiebatignolles.fr/notre-groupe/nos-entites/spie-batignolles-fondations) and [TESIS](http://www.tesis.com.br/site/index.php).
 
 Now, I am a **Senior Data Analyst** at **[ARTEFACT](https://www.artefact.com/)**, helping clients succeed their business transformation in better leveraging their data.
 
